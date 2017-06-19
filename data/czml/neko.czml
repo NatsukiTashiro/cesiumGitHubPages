@@ -34,8 +34,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.65632777778,
-                35.481038888889,
+                139.7599834,
+                35.6342858,
                 1800
             ]
         },
@@ -71,11 +71,11 @@
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.65632777778,
-                    35.481038888889,
+                    139.7599834,
+                    35.6342858,
                     1800,
-                    138.65632777778,
-                    35.481038888889,
+                    139.7599834,
+                　　 35.6342858,
                     0
                 ]
             },
@@ -108,7 +108,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "https://goo.gl/photos/rtZaE1Ug69wR3LPb6",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -123,8 +123,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.73666666667,
-                35.503333333333,
+                138.7436519,
+                35.3621065,
                 1800
             ]
         },
@@ -160,11 +160,11 @@
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.73666666667,
-                    35.503333333333,
+                    138.7436519,
+                    35.3621065,
                     1800,
-                    138.73666666667,
-                    35.503333333333,
+                    138.7436519,
+                    35.3621065,
                     0
                 ]
             },
@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "マザー牧場のネコ",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -197,7 +197,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "https://goo.gl/photos/rtZaE1Ug69wR3LPb6",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -212,8 +212,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.6074636,
-                35.4197767,
+                139.933534,
+                35.244694,
                 1800
             ]
         },
@@ -249,8 +249,8 @@
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.6074636,
-                    35.4197767,
+                    139.933534,
+                35.244694,
                     1800,
                     138.6074636,
                     35.4197767,
@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "東京ディズニーシーのネコ",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
         "billboard": {
             "scaleByDistance": {
@@ -286,7 +286,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "https://goo.gl/photos/rtZaE1Ug69wR3LPb6",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -301,8 +301,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7607812,
-                35.5073161,
+                139.885622,
+                35.625795,
                 1800
             ]
         },
@@ -338,8 +338,8 @@
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7607812,
-                    35.5073161,
+                     139.885622,
+                35.625795,
                     1800,
                     138.7607812,
                     35.5073161,
@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "国立科学博物館のネコ",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -375,7 +375,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "https://goo.gl/photos/rtZaE1Ug69wR3LPb6",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -390,8 +390,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7579065,
-                35.5036024,
+               139.776612,
+                35.716461,
                 1800
             ]
         },
@@ -427,8 +427,8 @@
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7579065,
-                    35.5036024,
+                    139.776612,
+                35.716461,
                     1800,
                     138.7579065,
                     35.5036024,
