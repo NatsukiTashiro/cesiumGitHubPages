@@ -2,7 +2,7 @@
     {
         "id": "document",
         "name": "neko",
-        "version": "1.0"
+        "version": "1.2"
     },
     {
         "id": "neko1",
@@ -19,7 +19,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "https://goo.gl/photos/rtZaE1Ug69wR3LPb6",
             "scale": 0.6,
             "color": {
                 "rgba": [
