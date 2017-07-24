@@ -2,12 +2,12 @@
     {
         "id": "document",
         "name": "neko",
-        "version": "1.2"
+        "version": "1.0"
     },
     {
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "遊園地",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -19,7 +19,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/Nhp_3tYYITQoKr4UMXZSoh2_xM__C8X5denXq3UAGoolGl3EWU5vtBmE8eR82U3_3dFqrwrGxPpdNa2WRy_Z9UOHQqtJCa_dhublBCd98JyvAyKNC9pDsHm8O7gmDPPyIstiN2yrgWdDC0NfJfO2JhGK_lxpVdECldWai9kqW3BVhqRhdEpSFyHJeOCerQoaw_0NPG3l5CvAD-CnQfQlzmpgXnxWifsPTSjxonDqGb1lOFDHky8gdZv5R803zTNOfRubpPjuF8sOXl8dy-vpdiKy28cmnzXCEKsdYkNly7WJ0n6T6DufMXiHNyf8Jy0pQ6yWYE1Gt9NRkaBEnwaSflxhAC00w6SiZdoQiphADyFx53SqQM1SpmMFHUkEDb5SF-BWp3s8EjimAwZ5phOdM8P2j5Zh3KZF318gxtSCXh8uflzAjIJOV-2WvPVXX8l9BuCFgmRi3hWJLZqbJzjBPRGO4AQJFVBXTWZcRXj1upFm70Bvhxm0IksNyr-mfmoSs_rY7ed2lBc1TsB4aid9xcFdueRmOWgAysQpimp1FX1Rq9RdqFIBkue76itLilWlpOz2W7aVx0kwW7a5wThvZJFGqP7RQ0KEigU8fHOLKozprdLX8UKZ0aAR2inUDEDNSenLD0EgmjShCZ2Bj8fbLM-0Y9FdwtjGDjTQlqQLug=s72-no",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/imachan0224_t.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -34,9 +34,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.7599834,
-                35.6342858,
-                1800
+                138.731449,
+                35.3629406,
+                3999
             ]
         },
         "label": {
@@ -65,17 +65,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "遊園地"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.7599834,
-                    35.6342858,
-                    1800,
-                    139.7599834,
-                　　 35.6342858,
+                    138.731449,
+                    35.3629406,
+                    3999,
+                    138.731449,
+                    35.3629406,
                     0
                 ]
             },
@@ -96,8 +96,8 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.8.2 12:50</p>",
+        "name": "遊園地",
+        "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -108,7 +108,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/PMAV_tvGx-nf-4f4vv0nxfH0HuQ_ibFGbqEweD5jV1IHEr30BG7ZNDrIYGcfLP5UGn1bznwwMVnxerpdBkZtqgHboq5PTQvddTEOUavDwYLIwfbO2g4QFYBMZhyScM3JEkk4gkWwvqyjdpHi0_Xfdy-AoxeuAnxTYh5ajqpMPQNXsVIEMRlLQ9cRGilfvHWEfnD6z3LAWJb7jCkSl_WGkmxA5NoNqBGY0rqTAgavDN7pXNmvNPrqTjLaTSUBR0DMSWnzRI2-SGqqNk2p2DRQCN1ilvgsQINVoAHErroQfg115-Fn8PTGwyDgKWbVUn7cZBs5HM-nduxfm5MHLVeL3eUv6M9gsAD74y0GeyqtserjGlwvghQaRpg3ZJ9wZ_nToQW7g6UgiEvdicZWrCMBg0W1C74OV7bYkPx1wwDx3wU-rAWz_EZEChogyQi1xva8BVyWRIRQSW0Gs4ZnZRZAEz51Yuxp5HwA8IypXbirvuZ48E5h-aWVb1hM3MaMJK38g-zP2Es2HlYua47tlD_gskdCplua5x74N3_PJCT8NCTG_lV-pp28qaPwzqJ_lsYICsH37CUgs2dCrO8TupOHVQvRpXCc402tYt0TpDCt4m9v4cSXgPWxlU-l5Dyp9LVQ8-TFQp68p8Ledmqt6njk97cVlNtrsbc99LrdQHBLvA=s72-no",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/imachan0224_t.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -123,9 +123,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7436519,
-                35.3621065,
-                1800
+                139.449071,
+                35.542085,
+                3999
             ]
         },
         "label": {
@@ -154,17 +154,284 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "遊園地"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7436519,
-                    35.3621065,
-                    1800,
-                    138.7436519,
-                    35.3621065,
+                    139.449071,
+                    35.542085,
+                    3999,
+                    139.449071,
+                    35.542085,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "neko3",
+        "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "遊園地",
+        "description": "<p class=\"date\"></p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/imachan0224_t.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                141.492276,
+                43.068598,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "遊園地"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    141.492276,
+                    43.068598,
+                    3999,
+                    141.492276,
+                    43.068598,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "neko4",
+        "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "遊園地",
+        "description": "<p class=\"date\"></p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/imachan0224_t.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.885011,
+                35.626239,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "遊園地"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.885011,
+                    35.626239,
+                    3999,
+                    139.885011,
+                    35.626239,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "neko5",
+        "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "遊園地",
+        "description": "<p class=\"date\"></p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/imachan0224_t.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                139.402814,
+                35.566754,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "遊園地"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    139.402814,
+                    35.566754,
+                    3999,
+                    139.402814,
+                    35.566754,
                     0
                 ]
             },
