@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "遊園地",
+        "name": "読売ランド",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
@@ -301,8 +301,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.885011,
-                35.626239,
+                139.5162633,
+                35.6240194,
                 3999
             ]
         },
@@ -332,18 +332,18 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "遊園地"
+            "text": "読売ランド"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.885011,
-                    35.626239,
+                    139.5162633,
+                    35.6240194,
                     3999,
-                    139.885011,
-                    35.626239,
-                    0
+                    139.5162633,
+                    35.6240194,
+                    3999
                 ]
             },
             "material": {
@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "遊園地",
+        "name": "花やしき",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
@@ -390,8 +390,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.402814,
-                35.566754,
+                139.7923445,
+                35.7152933,
                 3999
             ]
         },
@@ -427,12 +427,12 @@
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.402814,
-                    35.566754,
+                    139.7923445,
+                    35.7152933,
                     3999,
-                    139.402814,
-                    35.566754,
-                    0
+                    139.7923445,
+                    35.7152933,
+                    3999
                 ]
             },
             "material": {
