@@ -7,7 +7,7 @@
     {
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "遊園地",
+        "name": "後楽園",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -34,8 +34,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.731449,
-                35.3629406,
+                139.752043,
+                35.7044388,
                 3999
             ]
         },
@@ -65,18 +65,18 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "遊園地"
+            "text": "後楽園"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.731449,
-                    35.3629406,
+                    139.752043,
+                    35.7044388,
                     3999,
-                    138.731449,
-                    35.3629406,
-                    0
+                    139.752043,
+                    35.7044388,
+                    3999
                 ]
             },
             "material": {
@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "遊園地",
+        "name": "ディズニーランド",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
@@ -123,8 +123,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.449071,
-                35.542085,
+                139.8782056,
+                35.6328964,
                 3999
             ]
         },
@@ -154,18 +154,18 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "遊園地"
+            "text": "ディズニーランド"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.449071,
-                    35.542085,
+                    139.8782056,
+                    35.6328964,
                     3999,
-                    139.449071,
-                    35.542085,
-                    0
+                    139.8782056,
+                    35.6328964,
+                    3999
                 ]
             },
             "material": {
@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "遊園地",
+        "name": "ディズニーシー",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,8 +212,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                141.492276,
-                43.068598,
+                139.8788907,
+                35.6325981,
                 3999
             ]
         },
@@ -243,18 +243,18 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "遊園地"
+            "text": "ディズニーシー"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    141.492276,
-                    43.068598,
+                    139.8788907,
+                    35.6325981,
                     3999,
-                    141.492276,
-                    43.068598,
-                    0
+                    139.8788907,
+                    35.6325981,
+                    3999
                 ]
             },
             "material": {
